@@ -31,11 +31,11 @@ Note: Please be aware that Render's free tier will automatically shut down after
 2. Clone the forked repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/MERN-eCommerce.git
+git clone https://github.com/your-username/Mern-Shop.git
 ```
 
 ```bash
-cd MERN-eCommerce
+cd Mern-Shop
 ```
 
 3. Create a MongoDB database and obtain your MongoDB URI from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
@@ -134,7 +134,7 @@ We welcome and appreciate contributions from the community to enhance and improv
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/MERN-eCommerce.git
+   git clone https://github.com/your-username/Mern-Shop.git
    ```
 
 3. Navigate to the project directory:
@@ -195,3 +195,4 @@ Your contribution will be reviewed by the project maintainers. Be prepared to ad
 ## Thank You!
 
 Thank you for considering contributing to the eCommerce Platform Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
+ MADE AND DEVELOPE By HARENDRA SINGH
